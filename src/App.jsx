@@ -1,11 +1,10 @@
-import {Strings} from './assets/components/Strings'
+import { Strings } from './assets/components/Strings'
 import './App.css'
 
-function App() {
-
+function App () {
   return (
     <>
- <Strings min={0} max={11}/>
+      <Strings min={0} max={11} />
     </>
   )
 }
