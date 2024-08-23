@@ -2,7 +2,7 @@ import { useState, useRef } from 'react'
 import { random } from './random'
 import PropTypes from 'prop-types'
 
-const notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
+const notes = ['C', 'C#', 'D', 'D#', 'Db', 'Eb', 'E', 'F', 'F#', 'Gb', 'G', 'G#', 'Ab', 'A', 'A#', 'Bb', 'B']
 const minStrg = 1
 const maxStrg = 6
 
