@@ -45,7 +45,7 @@ button {
   background-color: rgb(197, 129, 4);
   cursor: pointer;
   transition: border-color 0.25s;
-
+  min-width: 7rem;
 }
 button:hover {
   border-color: #ffd48f;
